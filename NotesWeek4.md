@@ -6,4 +6,4 @@
 * item 2
 
 
-* emphasis *
+*emphasis*
